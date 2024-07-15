@@ -12,6 +12,6 @@
 
 ## Hecho por:
 
-###alexander vasquez
+### alexander vasquez
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
